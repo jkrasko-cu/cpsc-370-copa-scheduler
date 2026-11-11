@@ -11,8 +11,17 @@ COPA_LLM=off python tests/run_tests.py   # run all test cases, writes evaluation
 python agent.py tests/some_request.json  # run one raw request
 ```
 
-LLM: the agent auto-detects `ANTHROPIC_API_KEY` or `OPENAI_API_KEY`, or the starter code can inject its
-own client with `copa_core.llm.set_llm(fn)` where `fn(system, user) -> str`. With no LLM it still runs and
+LLM: set your Gemini key, then check it works:
+
+```bash
+export GEMINI_API_KEY=your-key-here        # Windows PowerShell: $env:GEMINI_API_KEY="your-key-here"
+python -m copa_core.llm                    # prints "LLM OK: ..." if the key works
+python tests/run_tests.py                  # full run with the LLM on
+```
+
+Default model is `gemini-3.6-flash`; override with `COPA_LLM_MODEL`. Set `COPA_LLM_DEBUG=1` to print LLM
+errors. Anthropic/OpenAI keys also work, or the starter code can inject its own client with
+`copa_core.llm.set_llm(fn)` where `fn(system, user) -> str`. With no LLM it still runs and
 falls back to deterministic text, so the hard-constraint guarantees never depend on the LLM.
 
 ## Layout

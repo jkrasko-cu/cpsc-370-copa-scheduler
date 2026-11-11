@@ -1,5 +1,6 @@
 ortools>=9.10
 pandas>=2.0
-# optional, auto-detected:
+google-genai>=1.0
+# optional alternatives, auto-detected:
 # anthropic
 # openai
