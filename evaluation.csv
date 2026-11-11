@@ -1,0 +1,7 @@
+name,operation,categories,passed,status,seconds,hard_violations,interface_ok,alternatives,alternatives_valid,change_count,unnecessary_changes,failures
+eval_reject_feature_with_alternatives,evaluate_change,capacity_feature;alternatives,True,completed,0.0,,True,3,3,,,
+gen_basic_small,generate_schedule,capacity_feature;faculty_conflict,True,completed,0.02,0,True,0,0,,,
+gen_impossible_capacity,generate_schedule,impossible;capacity_feature,True,partial,0.01,0,True,0,0,,,
+practice_fall2026,generate_schedule,real_data,True,completed,25.56,0,True,0,0,,,
+repair_faculty_unavailable,repair_schedule,faculty_conflict;small_repair,True,completed,0.02,0,True,0,0,1,0,
+repair_room_unavailable_small,repair_schedule,small_repair,True,partial,0.01,0,True,0,0,0,0,

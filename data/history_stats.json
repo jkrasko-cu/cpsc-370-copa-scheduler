@@ -1,0 +1,4041 @@
+{
+ "DANC-113": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:15",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 1
+  },
+  "buildings": {
+   "CPH": 1
+  }
+ },
+ "DANC-130": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "15:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "15:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH104": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-132": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 80,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "09:15",
+    "minutes": 80,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 80,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH103": 4
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-134": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 80,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "12:45",
+    "minutes": 80,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 80,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH101": 2,
+   "CPH103": 1,
+   "CPH001": 1
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-136": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 80,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "09:15",
+    "minutes": 80,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH104": 2,
+   "CPH101": 1,
+   "CPH102": 1
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-138": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 80,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH002": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-139": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH002": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-141": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "09:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 2,
+   "CPH202": 1
+  },
+  "buildings": {
+   "CPH": 3
+  }
+ },
+ "DANC-172": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH001": 2,
+   "CPH102": 2
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-174": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "16:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH001": 2,
+   "CPH104": 2
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-176": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 2
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH102": 4
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-220": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH102": 1
+  },
+  "buildings": {
+   "CPH": 1
+  }
+ },
+ "DANC-229": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "13:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 1
+  },
+  "buildings": {
+   "CPH": 1
+  }
+ },
+ "DANC-230": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "16:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH104": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-238": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "16:15",
+    "minutes": 80,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH002": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-260": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH101": 1,
+   "CPH103": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-261": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "16:15",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH104": 3
+  },
+  "buildings": {
+   "CPH": 3
+  }
+ },
+ "DANC-267": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "15:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "16:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "15:30",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH103": 4
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-272": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 2
+   },
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH101": 2,
+   "CPH001": 2
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-274": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH001": 2,
+   "CPH104": 1,
+   "CPH101": 1
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-276": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH101": 3,
+   "CPH102": 1
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-280": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "12:00",
+    "minutes": 120,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH101": 1,
+   "CPH103": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-281": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH101": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-310": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "12:00",
+    "minutes": 180,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH104": 1,
+   "CPH101": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-313": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:15",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 1
+  },
+  "buildings": {
+   "CPH": 1
+  }
+ },
+ "DANC-340": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH202": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-344": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH102": 1
+  },
+  "buildings": {
+   "CPH": 1
+  }
+ },
+ "DANC-347": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-353": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 2
+   },
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "12:45",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH202": 6
+  },
+  "buildings": {
+   "CPH": 6
+  }
+ },
+ "DANC-360": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "09:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 1,
+   "CPH202": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-361": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "09:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-367": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "16:15",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH103": 1
+  },
+  "buildings": {
+   "CPH": 1
+  }
+ },
+ "DANC-372": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH102": 2,
+   "CPH104": 1,
+   "CPH001": 1
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-374": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 90,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH001": 3,
+   "CPH104": 1
+  },
+  "buildings": {
+   "CPH": 4
+  }
+ },
+ "DANC-376": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH102": 1,
+   "CPH101": 1,
+   "CPH103": 1
+  },
+  "buildings": {
+   "CPH": 3
+  }
+ },
+ "DANC-377": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "F",
+    "start": "10:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH104": 1,
+   "CPH101": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-381": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "16:15",
+    "minutes": 180,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "16:15",
+    "minutes": 180,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH102": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-382": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "14:00",
+    "minutes": 90,
+    "count": 3
+   }
+  ],
+  "rooms": {
+   "CPH002": 1,
+   "CPH201": 1,
+   "CPH202": 1
+  },
+  "buildings": {
+   "CPH": 3
+  }
+ },
+ "DANC-440": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH103": 1,
+   "CPH201": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-453": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH201": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-472": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH001": 1,
+   "CPH104": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-474": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "12:45",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH104": 1,
+   "CPH001": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-476": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "09:15",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH101": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-477": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "F",
+    "start": "10:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "CPH001": 2
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-497": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH001": 1,
+   "CPH103": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "DANC-498": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "CPH103": 1,
+   "CPH201": 1
+  },
+  "buildings": {
+   "CPH": 2
+  }
+ },
+ "MUS-101": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH201": 1,
+   "BH227": 1
+  },
+  "buildings": {
+   "OH": 1,
+   "BH": 1
+  }
+ },
+ "MUS-102A": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 110,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-102B": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 110,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-112": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH100": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-113": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-114": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "17:30",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH223": 5
+  },
+  "buildings": {
+   "BH": 5
+  }
+ },
+ "MUS-122": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH201": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-128": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 3
+   },
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH124": 3,
+   "OH201": 2,
+   "BH227": 1
+  },
+  "buildings": {
+   "BH": 4,
+   "OH": 2
+  }
+ },
+ "MUS-130": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "BH109": 1,
+   "BH227": 1
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-133": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "MWF",
+    "start": "09:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "MWF",
+    "start": "11:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2,
+   "BH124": 2
+  },
+  "buildings": {
+   "OH": 2,
+   "BH": 2
+  }
+ },
+ "MUS-134": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "09:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "MWF",
+    "start": "11:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 3
+  },
+  "buildings": {
+   "OH": 3
+  }
+ },
+ "MUS-135": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "08:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-136": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "08:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-144": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "15:30",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-145": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "15:30",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-200": {
+  "patterns": [
+   {
+    "days": "W",
+    "start": "17:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH227": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-201A": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 2
+   },
+   {
+    "days": "M",
+    "start": "19:20",
+    "minutes": 170,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH201": 4
+  },
+  "buildings": {
+   "OH": 4
+  }
+ },
+ "MUS-202": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "BH227": 2
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-203": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH201": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-204": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-217": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-220": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "16:30",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH124": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-223": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-225": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-227": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-230": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OHB01": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-231": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-233": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "MWF",
+    "start": "11:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH227": 2
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-234": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "MWF",
+    "start": "11:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH227": 2
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-235": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "08:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH124": 2
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-236": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "08:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH124": 2
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-238": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-239": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-244": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OHB01": 4
+  },
+  "buildings": {
+   "OH": 4
+  }
+ },
+ "MUS-248": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-249": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OHB01": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-251": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-277": {
+  "patterns": [
+   {
+    "days": "W",
+    "start": "17:00",
+    "minutes": 110,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH204": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-304": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "BH124": 1,
+   "OH204": 1
+  },
+  "buildings": {
+   "BH": 1,
+   "OH": 1
+  }
+ },
+ "MUS-307": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 110,
+    "count": 2
+   },
+   {
+    "days": "M",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 2,
+   "BH100": 1
+  },
+  "buildings": {
+   "BH": 3
+  }
+ },
+ "MUS-309": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "15:00",
+    "minutes": 110,
+    "count": 2
+   },
+   {
+    "days": "F",
+    "start": "14:15",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH100": 3
+  },
+  "buildings": {
+   "BH": 3
+  }
+ },
+ "MUS-310": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:30",
+    "minutes": 110,
+    "count": 2
+   },
+   {
+    "days": "W",
+    "start": "19:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH100": 2,
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 3
+  }
+ },
+ "MUS-314": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "15:00",
+    "minutes": 110,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "BH109": 2
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-315": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-316": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "13:00",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "R",
+    "start": "12:30",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "R",
+    "start": "13:30",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "W",
+    "start": "14:30",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "W",
+    "start": "17:00",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "M",
+    "start": "13:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "11:30",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "16:30",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "M",
+    "start": "17:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "15:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "11:30",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "14:30",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 9,
+   "OH103": 5,
+   "OH204": 4,
+   "BH227": 1
+  },
+  "buildings": {
+   "OH": 18,
+   "BH": 1
+  }
+ },
+ "MUS-316B": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "11:30",
+    "minutes": 50,
+    "count": 3
+   },
+   {
+    "days": "M",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "T",
+    "start": "12:30",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "T",
+    "start": "13:00",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "T",
+    "start": "13:30",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "W",
+    "start": "17:00",
+    "minutes": 50,
+    "count": 2
+   },
+   {
+    "days": "F",
+    "start": "09:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "13:30",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "11:30",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "08:20",
+    "minutes": 60,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "14:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH103": 5,
+   "OH301": 4,
+   "BH100": 4,
+   "OH201": 2,
+   "OH204": 2,
+   "OH206": 1,
+   "BH227": 1
+  },
+  "buildings": {
+   "OH": 14,
+   "BH": 5
+  }
+ },
+ "MUS-318": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "13:30",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "14:30",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-319": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:30",
+    "minutes": 110,
+    "count": 2
+   },
+   {
+    "days": "W",
+    "start": "19:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH100": 2,
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 3
+  }
+ },
+ "MUS-321": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-322A": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH124": 2,
+   "BH227": 1
+  },
+  "buildings": {
+   "BH": 3
+  }
+ },
+ "MUS-322B": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "17:30",
+    "minutes": 110,
+    "count": 2
+   },
+   {
+    "days": "F",
+    "start": "15:00",
+    "minutes": 110,
+    "count": 1
+   },
+   {
+    "days": "F",
+    "start": "12:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "09:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2,
+   "BH109": 1,
+   "OH103": 1,
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 4,
+   "BH": 1
+  }
+ },
+ "MUS-322C": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "08:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH103": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-322G": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "16:00",
+    "minutes": 140,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-322I": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "12:00",
+    "minutes": 110,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-322K": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "17:00",
+    "minutes": 50,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "BH109": 1,
+   "BH100": 1
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-322M": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "14:30",
+    "minutes": 170,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-322N": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "13:00",
+    "minutes": 110,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-322P": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "13:30",
+    "minutes": 110,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH201": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-322Q": {
+  "patterns": [
+   {
+    "days": "W",
+    "start": "18:00",
+    "minutes": 110,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "BH109": 2
+  },
+  "buildings": {
+   "BH": 2
+  }
+ },
+ "MUS-324": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-328": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "12:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH100": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-330": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "BH124": 1,
+   "OH201": 1
+  },
+  "buildings": {
+   "BH": 1,
+   "OH": 1
+  }
+ },
+ "MUS-332C": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-332D": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-333": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "11:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH101D": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-336": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH100": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-337": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "18:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH100": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-339": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH204": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-344": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 2
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 4
+  },
+  "buildings": {
+   "OH": 4
+  }
+ },
+ "MUS-345": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-347": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-348": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-367": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH103": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-377": {
+  "patterns": [
+   {
+    "days": "W",
+    "start": "17:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH227": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-425": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-427": {
+  "patterns": [
+   {
+    "days": "W",
+    "start": "14:30",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-435": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH101D": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-439": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "19:20",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 1,
+   "OH301": 1,
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 3
+  }
+ },
+ "MUS-449": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "W",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-450": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "08:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-451": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "08:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH109": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-454": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH103": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-457": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "17:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH124": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-459": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "17:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH124": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-461": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "OH201": 1,
+   "OH301": 1
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-465": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "15:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-472": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "17:30",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH103": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-475": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "13:00",
+    "minutes": 110,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-476": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-479": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "19:20",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OHB01": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-496A": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH101D": 1,
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUS-496B": {
+  "patterns": [
+   {
+    "days": "MWF",
+    "start": "10:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-496E": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-502": {
+  "patterns": [
+   {
+    "days": "M",
+    "start": "17:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH223": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUS-509": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "17:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH204": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUS-97": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BH227": 1
+  },
+  "buildings": {
+   "BH": 1
+  }
+ },
+ "MUSB-100": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "19:20",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "W",
+    "start": "19:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "MUSB-300": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUSB-301": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH201": 1
+  },
+  "buildings": {
+   "OH": 1
+  }
+ },
+ "MUSB-400B": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "16:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "19:20",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "OH301": 2
+  },
+  "buildings": {
+   "OH": 2
+  }
+ },
+ "TH-100": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "09:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC112": 4
+  },
+  "buildings": {
+   "ETC": 4
+  }
+ },
+ "TH-110": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 2
+   },
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 2
+   },
+   {
+    "days": "MW",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "09:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 6,
+   "ETC103": 2,
+   "MC230": 2
+  },
+  "buildings": {
+   "MC": 8,
+   "ETC": 2
+  }
+ },
+ "TH-111": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "16:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC103": 2,
+   "MC230": 1
+  },
+  "buildings": {
+   "ETC": 2,
+   "MC": 1
+  }
+ },
+ "TH-112": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 2
+   },
+   {
+    "days": "MW",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC230": 3,
+   "ETC103": 1
+  },
+  "buildings": {
+   "MC": 3,
+   "ETC": 1
+  }
+ },
+ "TH-150": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 5,
+   "DT004": 1
+  },
+  "buildings": {
+   "MC": 5,
+   "DT": 1
+  }
+ },
+ "TH-170": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BK101": 2,
+   "BK213": 1
+  },
+  "buildings": {
+   "BK": 3
+  }
+ },
+ "TH-201": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC112": 1
+  },
+  "buildings": {
+   "ETC": 1
+  }
+ },
+ "TH-204": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 2
+   }
+  ],
+  "rooms": {
+   "ETC105": 2
+  },
+  "buildings": {
+   "ETC": 2
+  }
+ },
+ "TH-208": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC112": 1
+  },
+  "buildings": {
+   "ETC": 1
+  }
+ },
+ "TH-209": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "10:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-211": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC103": 2
+  },
+  "buildings": {
+   "ETC": 2
+  }
+ },
+ "TH-216": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC230": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-218": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "09:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "R",
+    "start": "13:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "09:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "13:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC230": 4
+  },
+  "buildings": {
+   "MC": 4
+  }
+ },
+ "TH-220": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "13:00",
+    "minutes": 50,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC133": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-221": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC133": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-230": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "M",
+    "start": "09:30",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "M",
+    "start": "13:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "W",
+    "start": "09:30",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "W",
+    "start": "13:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "633WP126B": 4,
+   "ETC103": 1
+  },
+  "buildings": {
+   "633WP": 4,
+   "ETC": 1
+  }
+ },
+ "TH-270": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-283": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 90,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC103": 1,
+   "MC230": 1
+  },
+  "buildings": {
+   "ETC": 1,
+   "MC": 1
+  }
+ },
+ "TH-301": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC112": 3
+  },
+  "buildings": {
+   "ETC": 3
+  }
+ },
+ "TH-303": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC112": 1
+  },
+  "buildings": {
+   "ETC": 1
+  }
+ },
+ "TH-315": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC230": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-320": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC103": 1
+  },
+  "buildings": {
+   "ETC": 1
+  }
+ },
+ "TH-321": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC103": 2
+  },
+  "buildings": {
+   "ETC": 2
+  }
+ },
+ "TH-322": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC230": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-329": {
+  "patterns": [
+   {
+    "days": "R",
+    "start": "13:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "SH106": 1,
+   "ETC112": 1
+  },
+  "buildings": {
+   "SH": 1,
+   "ETC": 1
+  }
+ },
+ "TH-330": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "10:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "ETC103": 1
+  },
+  "buildings": {
+   "ETC": 1
+  }
+ },
+ "TH-345": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC230": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-369": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "AF206C": 1
+  },
+  "buildings": {
+   "AF": 1
+  }
+ },
+ "TH-371": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "11:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "AF208": 1
+  },
+  "buildings": {
+   "AF": 1
+  }
+ },
+ "TH-372": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "BK212": 1
+  },
+  "buildings": {
+   "BK": 1
+  }
+ },
+ "TH-373": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "10:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-374": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-375": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-378": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "AF206C": 1
+  },
+  "buildings": {
+   "AF": 1
+  }
+ },
+ "TH-379": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "11:00",
+    "minutes": 105,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "14:30",
+    "minutes": 105,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 2
+  },
+  "buildings": {
+   "MC": 2
+  }
+ },
+ "TH-388": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "13:00",
+    "minutes": 105,
+    "count": 1
+   },
+   {
+    "days": "F",
+    "start": "15:00",
+    "minutes": 105,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "09:00",
+    "minutes": 75,
+    "count": 1
+   },
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 4
+  },
+  "buildings": {
+   "MC": 4
+  }
+ },
+ "TH-389": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "13:00",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "TR",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 2
+  },
+  "buildings": {
+   "MC": 2
+  }
+ },
+ "TH-410": {
+  "patterns": [
+   {
+    "days": "TR",
+    "start": "16:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC230": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-419": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "14:30",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-489": {
+  "patterns": [
+   {
+    "days": "F",
+    "start": "10:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-497A": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "13:00",
+    "minutes": 170,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-497B": {
+  "patterns": [
+   {
+    "days": "T",
+    "start": "14:30",
+    "minutes": 170,
+    "count": 1
+   },
+   {
+    "days": "T",
+    "start": "17:30",
+    "minutes": 90,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC149": 1,
+   "MC230": 1
+  },
+  "buildings": {
+   "MC": 2
+  }
+ },
+ "TH-498A": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "13:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ },
+ "TH-498B": {
+  "patterns": [
+   {
+    "days": "MW",
+    "start": "09:00",
+    "minutes": 75,
+    "count": 1
+   }
+  ],
+  "rooms": {
+   "MC212": 1
+  },
+  "buildings": {
+   "MC": 1
+  }
+ }
+}

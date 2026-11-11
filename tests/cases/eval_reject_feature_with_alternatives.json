@@ -1,0 +1,258 @@
+{
+ "name": "eval_reject_feature_with_alternatives",
+ "operation": "evaluate_change",
+ "categories": [
+  "capacity_feature",
+  "alternatives"
+ ],
+ "description": "Coordinator proposes moving Jazz (dance) into OH 201, a plain classroom. Must reject citing the dance_studio feature and offer feasible alternatives. (Enrollment 20 so the small studio CPH 202 at the same time is a valid alternative.)",
+ "request": {
+  "protocol_version": "1.0",
+  "request_id": "t-eval-1",
+  "operation": "evaluate_change",
+  "unit": "College of Performing Arts",
+  "semester": "Test",
+  "payload": {
+   "timeslots": [
+    {
+     "timeslot_id": "MW-1000",
+     "days": [
+      "M",
+      "W"
+     ],
+     "start": "10:00",
+     "end": "11:15"
+    },
+    {
+     "timeslot_id": "MW-1300",
+     "days": [
+      "M",
+      "W"
+     ],
+     "start": "13:00",
+     "end": "14:15"
+    },
+    {
+     "timeslot_id": "TR-1000",
+     "days": [
+      "T",
+      "R"
+     ],
+     "start": "10:00",
+     "end": "11:15"
+    },
+    {
+     "timeslot_id": "TR-1300",
+     "days": [
+      "T",
+      "R"
+     ],
+     "start": "13:00",
+     "end": "14:15"
+    },
+    {
+     "timeslot_id": "TR-1615",
+     "days": [
+      "T",
+      "R"
+     ],
+     "start": "16:15",
+     "end": "17:45"
+    }
+   ],
+   "rooms": [
+    {
+     "room_id": "CPH 101",
+     "capacity": 50,
+     "features": [
+      "dance_studio"
+     ]
+    },
+    {
+     "room_id": "CPH 202",
+     "capacity": 22,
+     "features": [
+      "dance_studio"
+     ]
+    },
+    {
+     "room_id": "OH 103",
+     "capacity": 90,
+     "features": [
+      "rehearsal_hall",
+      "piano"
+     ]
+    },
+    {
+     "room_id": "OH 201",
+     "capacity": 36,
+     "features": []
+    },
+    {
+     "room_id": "MC 149",
+     "capacity": 50,
+     "features": [
+      "theatre_studio"
+     ]
+    }
+   ],
+   "courses": [
+    {
+     "course_id": "DANC-134-01",
+     "title": "Jazz",
+     "instructor_id": "FAC-001",
+     "expected_enrollment": 20,
+     "required_features": [
+      "dance_studio"
+     ],
+     "preferred_times": [
+      "TR-1615"
+     ],
+     "avoid_times": [],
+     "conflicts_with": []
+    },
+    {
+     "course_id": "DANC-276-01",
+     "title": "Ballet",
+     "instructor_id": "FAC-002",
+     "expected_enrollment": 20,
+     "required_features": [
+      "dance_studio"
+     ],
+     "preferred_times": [],
+     "avoid_times": [],
+     "conflicts_with": []
+    },
+    {
+     "course_id": "MUS-315-01",
+     "title": "Wind Symphony",
+     "instructor_id": "FAC-003",
+     "expected_enrollment": 35,
+     "required_features": [
+      "rehearsal_hall"
+     ],
+     "preferred_times": [
+      "TR-1300"
+     ],
+     "avoid_times": [],
+     "conflicts_with": []
+    },
+    {
+     "course_id": "MUS-133-01",
+     "title": "Theory I",
+     "instructor_id": "FAC-004",
+     "expected_enrollment": 15,
+     "required_features": [],
+     "preferred_times": [
+      "MW-1000"
+     ],
+     "avoid_times": [],
+     "conflicts_with": [
+      "MUS-135-01"
+     ]
+    },
+    {
+     "course_id": "MUS-135-01",
+     "title": "Aural Skills I",
+     "instructor_id": "FAC-004",
+     "expected_enrollment": 15,
+     "required_features": [],
+     "preferred_times": [
+      "MW-1000"
+     ],
+     "avoid_times": [],
+     "conflicts_with": [
+      "MUS-133-01"
+     ]
+    },
+    {
+     "course_id": "TH-321-01",
+     "title": "Meisner Technique",
+     "instructor_id": "FAC-005",
+     "expected_enrollment": 14,
+     "required_features": [
+      "theatre_studio"
+     ],
+     "preferred_times": [
+      "TR-1000"
+     ],
+     "avoid_times": [
+      "TR-1615"
+     ],
+     "conflicts_with": []
+    },
+    {
+     "course_id": "MUS-201A-01",
+     "title": "History of Rock",
+     "instructor_id": "FAC-006",
+     "expected_enrollment": 33,
+     "required_features": [],
+     "preferred_times": [],
+     "avoid_times": [],
+     "conflicts_with": []
+    }
+   ],
+   "faculty_constraints": [
+    {
+     "instructor_id": "FAC-005",
+     "unavailable_times": [
+      "TR-1300"
+     ],
+     "preferred_times": [
+      "TR-1000"
+     ]
+    }
+   ],
+   "global_constraints": [],
+   "context": {},
+   "current_schedule": [
+    {
+     "course_id": "DANC-134-01",
+     "timeslot_id": "TR-1615",
+     "room_id": "CPH 101"
+    },
+    {
+     "course_id": "DANC-276-01",
+     "timeslot_id": "MW-1000",
+     "room_id": "CPH 101"
+    },
+    {
+     "course_id": "MUS-315-01",
+     "timeslot_id": "TR-1300",
+     "room_id": "OH 103"
+    },
+    {
+     "course_id": "MUS-133-01",
+     "timeslot_id": "MW-1000",
+     "room_id": "OH 201"
+    },
+    {
+     "course_id": "MUS-135-01",
+     "timeslot_id": "MW-1300",
+     "room_id": "OH 201"
+    },
+    {
+     "course_id": "TH-321-01",
+     "timeslot_id": "TR-1000",
+     "room_id": "MC 149"
+    },
+    {
+     "course_id": "MUS-201A-01",
+     "timeslot_id": "TR-1000",
+     "room_id": "OH 201"
+    }
+   ],
+   "proposed_change": {
+    "course_id": "DANC-134-01",
+    "new_timeslot_id": "TR-1615",
+    "new_room_id": "OH 201"
+   },
+   "reason": "Resolve conflict with another academic unit."
+  }
+ },
+ "expect": {
+  "decision": "reject",
+  "reason_mentions": "room_features",
+  "min_alternatives": 1
+ }
+}

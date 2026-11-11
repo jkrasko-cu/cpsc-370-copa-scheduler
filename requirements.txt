@@ -1,0 +1,5 @@
+ortools>=9.10
+pandas>=2.0
+# optional, auto-detected:
+# anthropic
+# openai

@@ -1,0 +1,22 @@
+{
+  "_doc": "Soft-preference weights. Each term is in roughly [-1, 1] before weighting. See agent_design.md.",
+  "course_preferred_time": 3.0,
+  "course_avoid_time": -4.0,
+  "faculty_preferred_time": 2.0,
+  "historical_pattern": 2.0,
+  "historical_building": 1.0,
+  "historical_room": 0.5,
+  "early_morning": -1.0,
+  "late_evening": -1.0,
+  "friday": -0.5,
+  "wasted_capacity": -1.5,
+  "early_morning_before": "09:00",
+  "late_evening_after": "19:00",
+
+  "repair_room_change_cost": 1000,
+  "repair_time_change_cost": 1200,
+  "solver_time_limit_s": 20,
+
+  "accept_impact_threshold": 0.6,
+  "max_alternatives": 3
+}
